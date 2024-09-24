@@ -1,0 +1,6 @@
+Flask
+pandas
+SQLAlchemy
+flask-cors
+gunicorn
+uvicorn
