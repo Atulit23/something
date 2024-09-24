@@ -4,3 +4,4 @@ SQLAlchemy
 flask-cors
 gunicorn
 uvicorn
+psycopg2
